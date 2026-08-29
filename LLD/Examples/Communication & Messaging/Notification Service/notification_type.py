@@ -1,0 +1,7 @@
+from enum import Enum
+
+class NotificationType(Enum):
+    ORDER_PLACED = "ORDER_PLACED"
+    ORDER_CONFIRMED = "ORDER_CONFIRMED"
+    ORDER_SHIPPED = "ORDER_SHIPPED"
+    ORDER_DELIVERED = "ORDER_DELIVERED"
