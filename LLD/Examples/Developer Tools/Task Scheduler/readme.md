@@ -1,6 +1,7 @@
 # Task Scheduler
 
 A basic Python Task Scheduler that uses a **Min-Heap (`heapq`)** to schedule tasks and **ThreadPoolExecutor** to execute multiple tasks concurrently.
+<img width="2278" height="2338" alt="image" src="https://github.com/user-attachments/assets/e5825255-13dd-4b3a-a332-ffc2086783c0" />
 
 ## Features
 
